@@ -24,7 +24,10 @@ Displays:
 
 Isekai XR  
 
-contact.isekaixr@gmail.com  
+
+For inquiries, contact via LinkedIn
+
+[Isekai XR](https://www.linkedin.com/company/isekai-xr/)
 
 
 
