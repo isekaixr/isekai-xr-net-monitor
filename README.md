@@ -217,5 +217,5 @@ This tool is part of the Isekai XR ecosystem of lightweight developer utilities 
 
 
 
-contact.isekaixr@gmail.com
+[Isekai XR](https://www.linkedin.com/company/isekai-xr/)
 
